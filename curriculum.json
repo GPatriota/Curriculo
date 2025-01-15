@@ -1,0 +1,69 @@
+{
+    "name": "Gustavo Patriota Silva",
+    "photo": "https://avatars.githubusercontent.com/u/155376842?s=400&u=2e02407278ba37b0f4411dcb4c114793500db7bd&v=4",
+    "job": "Estagiário em Análise e Desenvolvimento de Sistemas",
+    "location": "São Paulo - SP",
+    "phone": "(11) 96027-3642",
+    "email": "gpspatriota@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "CSS",
+          "logo": "https://GPatriota.github.io/Curriculo/SVGImages/css.svg"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://GPatriota.github.io/Curriculo/SVGImages/html.svg"      },
+        {
+          "name": "JavaScript",
+          "logo": "https://GPatriota.github.io/Curriculo/SVGImages/js.svg"      },
+        {
+          "name": "Java",
+          "logo": "https://GPatriota.github.io/Curriculo/SVGImages/java.svg"      },
+        {
+          "name": "Kotlin",
+          "logo": "https://GPatriota.github.io/Curriculo/SVGImages/kotlin.svg"      },
+        {
+          "name": "Python",
+          "logo": "https://GPatriota.github.io/Curriculo/SVGImages/python.svg"      },
+          {
+            "name": "TypeScript",
+            "logo": "https://GPatriota.github.io/Curriculo/SVGImages/typescript.svg"      }
+      ],
+      "softSkills": [
+        "Disposição a aprender",
+        "Comunicação Assertiva",
+        "Trabalho em equipe",
+        "Proatividade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português",
+      "Inglês (avançado)",
+      "Espanhol (intermediário)"
+    ],
+    "portfolio": [
+      {
+        "name": "Pokedex",
+        "url": "https://github.com/GPatriota/Pokedex",
+        "github": true
+      },
+      {
+        "name": "Dev Links",
+        "url": "https://github.com/GPatriota/Projeto-Front",
+        "github": true
+      },{
+        "name": "Agenda",
+        "url": "https://github.com/GPatriota/AgendaDotnet",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Average",
+        "period": "10/2024 - Até o momento",
+        "description": "Estagiário em Análise e Desenvolvimento de Sistemas"
+      }
+    ]
+  }
