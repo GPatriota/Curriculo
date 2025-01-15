@@ -20,15 +20,9 @@
         {
           "name": "Java",
           "logo": "https://GPatriota.github.io/Curriculo/SVGImages/java.svg"      },
-        {
-          "name": "Kotlin",
-          "logo": "https://GPatriota.github.io/Curriculo/SVGImages/kotlin.svg"      },
-        {
-          "name": "Python",
-          "logo": "https://GPatriota.github.io/Curriculo/SVGImages/python.svg"      },
           {
-            "name": "TypeScript",
-            "logo": "https://GPatriota.github.io/Curriculo/SVGImages/typescript.svg"      }
+            "name": "C#",
+            "logo": "https://GPatriota.github.io/Curriculo/SVGImages/c#.svg"      }
       ],
       "softSkills": [
         "Disposição a aprender",
