@@ -19,7 +19,10 @@
           "logo": "https://bh-tec.github.io/Portfolio-API/images/js.svg"      },
         {
           "name": "Java",
-          "logo": "https://GPatriota.github.io/Curriculo/SVGImages/java.svg"      }
+          "logo": "https://GPatriota.github.io/Curriculo/SVGImages/java.svg"      },
+          {
+            "name": "C#",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"      }
       ],
       "softSkills": [
         "Disposição a aprender",
